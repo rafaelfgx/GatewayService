@@ -1,0 +1,10 @@
+<Project>
+    <PropertyGroup>
+        <EnablePackageVersionOverride>false</EnablePackageVersionOverride>
+        <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+        <TreatWarningsAsErrors>true</TreatWarningsAsErrors>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageVersion Include="Ocelot" Version="23.4.2" />
+    </ItemGroup>
+</Project>
